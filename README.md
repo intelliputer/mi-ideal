@@ -11,3 +11,5 @@ bring the same image to M6x09-II and only afterward evaluate 6309 native mode.
   roles, risks, and staged implementation plan.
 - [Current status](CURRENT-STATUS.md) — existing assets, blockers, experiment
   sequence, and seed-milestone completion criteria.
+- [Work-plan proposal](WORKPLAN-PROPOSAL.md) — phased path from the seed trace
+  to a constrained autonomous controller.
